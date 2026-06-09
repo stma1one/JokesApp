@@ -19,7 +19,7 @@
             Grid.Row="1"
             Margin="20"
             BackgroundColor="{StaticResource Tertiary}"
-            HeightRequest="100"
+            HeightRequest="150"
             HorizontalOptions="Center"
             StrokeShape="RoundRectangle 10"
             WidthRequest="200">
